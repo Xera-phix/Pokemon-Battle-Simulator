@@ -1,5 +1,4 @@
 Pokemon Battle Simulator
-
 A text-based simulation of Pokemon battles, designed to emulate the Pokemon Factory battle mode in Pokemon Showdown. This program showcases comprehensive game mechanics, object-oriented design, and efficient data handling.
 
 Overview
