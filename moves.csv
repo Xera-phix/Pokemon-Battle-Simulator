@@ -1,0 +1,57 @@
+#,Name   ,Effect,Type   ,Kind,Power,Accuracy,PP   
+1,Pound,Deals damage with no additional effect.,Normal,Physical,40,1,35
+5,Mega Punch,Deals damage with no additional effect.,Normal,Physical,80,0.85,20
+10,Scratch,Deals damage with no additional effect.,Normal,Physical,40,1,35
+11,ViceGrip,Deals damage with no additional effect.,Normal,Physical,55,1,30
+15,Cut,Deals damage with no additional effect.,Normal,Physical,50,0.95,30
+17,Wing Attack,Deals damage with no additional effect.,Flying,Physical,60,1,35
+21,Slam,Deals damage with no additional effect.,Normal,Physical,80,0.75,20
+22,Vine Whip,Deals damage with no additional effect.,Grass,Physical,35,1,15
+25,Mega Kick,Deals damage with no additional effect.,Normal,Physical,120,0.75,5
+30,Horn Attack,Deals damage with no additional effect.,Normal,Physical,65,1,25
+33,Tackle,Deals damage with no additional effect.,Normal,Physical,50,1,35
+55,Water Gun,Deals damage with no additional effect.,Water,Special,40,1,25
+56,Hydro Pump,Deals damage with no additional effect.,Water,Special,120,0.8,5
+64,Peck,Deals damage with no additional effect.,Flying,Physical,35,1,35
+65,Drill Peck,Deals damage with no additional effect.,Flying,Physical,80,1,20
+70,Strength,Deals damage with no additional effect.,Normal,Physical,80,1,15
+88,Rock Throw,Deals damage with no additional effect.,Rock,Physical,50,0.9,15
+121,Egg Bomb,Deals damage with no additional effect.,Normal,Physical,100,0.75,10
+224,Megahorn,Deals damage with no additional effect.,Bug,Physical,120,0.85,10
+304,Hyper Voice,Deals damage with no additional effect.,Normal,Special,90,1,10
+337,Dragon Claw,Deals damage with no additional effect.,Dragon,Physical,80,1,15
+57,Surf,Power doubles against a target who is in the middle of using Dive.,Water,Special,95,1,15
+89,Earthquake,Power doubles when performed against Pokemon using Dig.,Ground,Physical,100,1,10
+85,Thunderbolt,Has a 10% chance to paralyze the target.,Electric,Special,95,1,15
+87,Thunder,Has a 30% chance to paralyze the target.,Electric,Special,120,0.7,10
+9,ThunderPunch,Has a 10% chance to paralyze the target.,Electric,Physical,75,1,15
+7,Fire Punch,Has a 10% chance to burn the target.,Fire,Physical,75,1,15
+8,Ice Punch,Has a 10% chance to freeze the target.,Ice,Physical,75,1,15
+126,Fire Blast,Has a 10% chance to burn the target.,Fire,Special,120,0.85,5
+127,Waterfall,Has a 20% chance to make the target flinch.,Water,Physical,80,1,15
+53,Flamethrower,Has a 10% chance to burn the target.,Fire,Special,95,1,15
+26,Jump Kick,If this attack misses the target the user half of its max health in recoil damage.,Fighting,Physical,100,0.95,10
+58,Ice Beam,Has a 10% chance to freeze the target.,Ice,Special,95,1,10
+59,Blizzard,Has a 10% chance to freeze the target.,Ice,Special,120,0.7,5
+60,Psybeam,Has a 10% chance to confuse the target.,Psychic,Special,65,1,20
+94,Psychic,Has a 10% chance to lower the target's Special Defense by 1 stage.,Psychic,Special,90,1,10
+129,Swift,Ignores Evasion and Accuracy modifiers and never misses.,Normal,Special,60,1.01,20
+152,Crabhammer,Has a high critical hit ratio.,Water,Physical,90,0.9,10
+158,Hyper Fang,Has a 10% chance to make the target flinch.,Normal,Physical,80,0.9,15
+157,Rock Slide,Has a 30% chance to make the target flinch.,Rock,Physical,75,0.9,10
+211,Steel Wing,Has a 10% chance to raise the user's Defense by 1 stage.,Steel,Physical,70,0.9,25
+225,DragonBreath,Has a 30% chance to paralyze the target.,Dragon,Special,60,1,20
+231,Iron Tail,Has a 30% chance to lower the target's Defense by 1 stage.,Steel,Physical,100,0.75,15
+232,Metal Claw,Has a 10% chance to raise the user's Attack by 1 stage.,Steel,Physical,50,0.95,35
+242,Crunch,Has a 20% chance to lower the target's Defense by 1 stage.,Dark,Physical,80,1,15
+246,AncientPower,Has a 10% chance to raise all of the user's stats by 1 stage.,Rock,Special,60,1,5
+247,Shadow Ball,Has a 20% chance to lower the target's Special Defense by 1 stage.,Ghost,Special,80,1,15
+257,Heat Wave,Has a 10% chance to burn the target.,Fire,Special,100,0.9,10
+280,Brick Break,Reflect and Light Screen are removed from the target's field even if the attack misses or the target is a Ghost-type.,Fighting,Physical,75,1,15
+305,Poison Fang,Has a 30% chance to inflict Toxic poison on the target.,Poison,Physical,50,1,15
+306,Crush Claw,Has a 50% chance to lower the target's Defense by 1 stage.,Normal,Physical,75,0.95,10
+330,Muddy Water,Lowers the target's Accuracy by 1 stage.,Water,Special,95,0.85,10
+327,Sky Uppercut,Also hits targets in mid-air via Fly or Bounce.,Fighting,Physical,85,0.9,15
+332,Aerial Ace,Ignores Evasion and Accuracy modifiers and never misses except against Protect Detect or a target in the middle of Dig Fly Dive or Bounce.,Flying,Physical,60,1.01,20
+352,Water Pulse,Has a 20% chance to confuse the target.,Water,Special,60,1,20
+348,Leaf Blade,Has a high critical hit ratio.,Grass,Physical,90,1,15
