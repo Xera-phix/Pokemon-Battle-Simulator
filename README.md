@@ -14,5 +14,6 @@ Key Features
 - Error Handling: Comprehensive input validation and error handling for robust and reliable execution.
 
 How It Works
+
 Team Generation:
 Both user and opponent teams are generated randomly from a pool of 81 Pokemon, each with 4 random moves.
