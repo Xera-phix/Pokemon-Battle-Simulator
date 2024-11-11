@@ -15,5 +15,5 @@ Key Features
 
 How It Works
 
-Team Generation:
 Both user and opponent teams are generated randomly from a pool of 81 Pokemon, each with 4 random moves.
+They must battle it out to see who can become the one and only Pokemon champion!
